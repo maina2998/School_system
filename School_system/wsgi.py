@@ -1,4 +1,5 @@
-"""
+"""                                .....web serever getway interface
+                                    synchronous
 WSGI config for School_system project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.

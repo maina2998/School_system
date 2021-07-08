@@ -1,4 +1,4 @@
-"""
+"""                ....asynchronous serve getway interface
 ASGI config for School_system project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.

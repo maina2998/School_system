@@ -1,4 +1,4 @@
-"""School_system URL Configuration
+"""School_system URL Configuration                           ...all projects are stored here.
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/3.2/topics/http/urls/
@@ -19,3 +19,6 @@ from django.urls import path
 urlpatterns = [
     path('admin/', admin.site.urls),
 ]
+
+"""asynchronous is non_blocking
+   synchronous is blocking"""
